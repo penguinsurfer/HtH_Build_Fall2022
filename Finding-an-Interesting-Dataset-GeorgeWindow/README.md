@@ -1,0 +1,3 @@
+Lastly, create a "About_the_Data.md" file that briefly explains why you were interested in this data and what questions you hope to answer from your data analysis. Upload this to github as well once you finish.
+
+I was interested in this data because of my interest with the Pokemon games and how the data would look like. As for questions I hope to answer, I wonder if it is possible to assume if one Pokemon automatically beats the other, depending on the stats and not taking possibilities into account.
